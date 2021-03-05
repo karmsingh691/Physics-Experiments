@@ -1,2 +1,2 @@
-# PhysicsExperiments
+# Physics Experiments
 Using Raspberry Pi and Arduino for Physics Experiments
