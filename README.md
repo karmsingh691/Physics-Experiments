@@ -1,7 +1,7 @@
 # Physics Experiments
 
 ## Objectives and Motivation
-The goal for the following projects is to use microcontrollers such as Raspberry Pi and Arduino to conduct simple Physics experiments that can be done with available sensors.
+The goal for the following projects is to use microcontrollers such as Raspberry Pi and Arduino to conduct simple Physics experiments that can be done with sensors that are readily available on sites like Sparkfun. 
 
 ## Current Parts List 
 
